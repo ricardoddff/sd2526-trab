@@ -1,0 +1,16 @@
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.tar.gz
+*.rar
+target/
+bin/
+.vscode/
+.metals/
+.settings/
+.project
+.classpath
+.DS_Store
+*~
